@@ -6,4 +6,5 @@
 * [Práctica 4](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/Notebooks/P4.ipynb) [pdf](/Notebooks/P4.pdf)
 * [Práctica 5](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/Notebooks/P5.ipynb) [pdf](/Notebooks/P5.pdf)
 * [Práctica 6](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/Notebooks/P6.ipynb)
-* [Práctica 6](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/Notebooks/P7.ipynb)
+* [Práctica 7](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/Notebooks/P7.ipynb)
+* [Práctica 8](/Notebooks/P8.md)
