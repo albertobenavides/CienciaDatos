@@ -9,3 +9,4 @@
 * [Práctica 7](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/Notebooks/P7.ipynb)
 * [Práctica 8](/Notebooks/P8.md)
 * [Práctica 9](/Notebooks/P9/P9.md)
+* [Práctica 10](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/Notebooks/P10.ipynb)
