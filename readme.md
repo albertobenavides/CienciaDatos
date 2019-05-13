@@ -10,4 +10,5 @@
 * [Práctica 8](/Notebooks/P8.md)
 * [Práctica 9](/Notebooks/P9/P9.md)
 * [Práctica 10](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/Notebooks/P10.ipynb)
-* [Práctica 10](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/Notebooks/P11.ipynb)
+* [Práctica 11](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/Notebooks/P11.ipynb)
+* [Práctica 12](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/Notebooks/P12.ipynb)
