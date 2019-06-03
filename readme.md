@@ -12,3 +12,5 @@
 * [Práctica 10](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/Notebooks/P10.ipynb)
 * [Práctica 11](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/Notebooks/P11.ipynb)
 * [Práctica 12](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/Notebooks/P12.ipynb)
+* [Práctica 13](#)
+* [Artículo Pronóstico](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/article/main.pdf)
