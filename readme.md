@@ -13,4 +13,4 @@
 * [Práctica 11](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/Notebooks/P11.ipynb)
 * [Práctica 12](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/Notebooks/P12.ipynb)
 * [Artículo Pronóstico](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/article/main.pdf)
-* [Artículo Pronóstico](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/PortafolioAlberto.pdf)
+* [Portafolio](https://nbviewer.jupyter.org/github/jbenavidesv87/CienciaDatos/blob/master/PortafolioAlberto.pdf)
